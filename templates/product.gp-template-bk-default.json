@@ -1,0 +1,219 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_shopify_original_section_590019739913290582": {
+      "settings": {
+        "checksum": "",
+        "gg0EAWJjxTL_text": "<p>At vero eos et accusamus&nbsp;</p>",
+        "gg1jn7hqYPY_text": "<p>At vero eos et</p>",
+        "ggDPK1nzKey_text": "<p>At vero eos et accusamus&nbsp;</p>",
+        "ggL2ZLLo1Jo_text": "<p>Lorem ipsum dolor</p>",
+        "ggXK6wGoA5M_text": "<p>94% SATISFACTION RATE</p>",
+        "ggfcJFKGLAE_text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+        "ggl2d6IKlKV_label": "GET MINE NOW",
+        "ggl2d6IKlKV_outOfStockLabel": "Out of stock",
+        "ggl2d6IKlKV_unavailableLabel": "Unavailable",
+        "ggl5CxSm7tD_text": "<p>At vero eos et&nbsp;</p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-590019739913290582"
+    },
+    "gp_shopify_original_section_590033439181242929": {
+      "settings": {
+        "checksum": "",
+        "gg20mIRo13F_text": "<br>This Isn’t Just Body Butter. It’s a Whole Vibe"
+      },
+      "type": "gp-section-590033439181242929"
+    },
+    "gp_shopify_original_section_590036899733701261": {
+      "settings": {
+        "checksum": "",
+        "gg0cbWjUmzH_text": "<p>Powered by rich shea butter, coconut oil, and skin-loving nutrients, it hydrates deep and keeps you soft all day.&nbsp;</p>",
+        "gg_fz6Mibhz_text": "<p>Dry skin? Handled. Ashy elbows? Not on your watch. Kowdens melts into the skin—zero grease, just straight-up glow.</p>",
+        "gga2QDvYXLo_text": "<p>And the scent? That’s the plot twist. Smooth, bold, and built to last—like your favorite cologne, only better.&nbsp;</p>",
+        "ggeVs3e8zub_text": "<p>You won’t just feel good. You’ll get noticed.</p>"
+      },
+      "type": "gp-section-590036899733701261"
+    },
+    "gp_shopify_original_section_590278990682391382": {
+      "settings": {
+        "checksum": "",
+        "gglIjZXle3M_text": "Your Shortcut to Radiant Skin",
+        "ggwxT2T6noi_text": "<p>Discover why one jar is never enough—your skin will know.&nbsp;</p>"
+      },
+      "type": "gp-section-590278990682391382"
+    },
+    "gp_shopify_original_section_590279052825199446": {
+      "settings": {
+        "checksum": "",
+        "gg0mM2WwoN2_text": "Use gentle, circular motions to massage until fully absorbed, leaving your skin feeling soft and refreshed.",
+        "gg7MTxtg2qB_text": "Step-01",
+        "gg7jhFxvIAV_text": "Step-03",
+        "ggAbrgFUCzS_text": "Apply evenly across your face, whether your skin is freshly cleansed or dry.",
+        "ggL717vfFxH_text": "Begin with just a pump of lotion—its lightweight formula is designed to cover your entire face effectively.",
+        "ggPhtPG8Ly0_text": "Step-02",
+        "ggSUF5g1H0a_text": "Work It In Thoroughly",
+        "gggmPn9KBQH_text": "Dispense a Small Amount",
+        "ggxrztNnGWq_text": "Gently Smooth on Skin"
+      },
+      "type": "gp-section-590279052825199446"
+    },
+    "gp_shopify_original_section_590282574446723752": {
+      "settings": {
+        "checksum": "",
+        "ggEGBQZdfYE_text": "<span style=\"font-size:38px;\">Your Skin’s New Favorite Thing</span>",
+        "ggKLO0eN6jm_text": "<p>Discover why one jar is never enough—your skin will know.&nbsp;</p>",
+        "ggOl0ooOh7D_text": "One Jar. All Skin.",
+        "ggZ4WxuBwv0_text": "One Jar. All Skin.",
+        "ggeR_yl6EIW_text": "One Jar. All Skin.",
+        "ggljcScyI1D_text": "One Jar. All Skin."
+      },
+      "type": "gp-section-590282574446723752"
+    },
+    "gp_shopify_original_section_590289095163380392": {
+      "settings": {
+        "checksum": "",
+        "gg0BXcrFKud_text": "<p><i><strong>I’ve tried countless moisturizers, but nothing compares to this one. From the moment I applied it, I knew it was special. The texture is unbelievably smooth—like spreading silk on your skin. It absorbs beautifully without feeling greasy, and my skin stays soft all day long. But the real magic is the fragrance. It’s sophisticated, comforting, and subtly lingers.</strong></i></p>",
+        "gg7m3SJuKtD_text": "<span style=\"font-size:16px;\">Madison M.</span>",
+        "ggNB7INwUbm_text": "<p><i>Verified Customer</i></p>"
+      },
+      "type": "gp-section-590289095163380392"
+    },
+    "gp_shopify_original_section_590290625664909992": {
+      "settings": {
+        "checksum": "",
+        "gg3mdTSwlO5_text": "<strong>The Smoothest Flex</strong>",
+        "gg9ABeO0Bin_text": "<p>Normal Cream</p>",
+        "ggUqHSFsxrf_text": "<strong>Why “Kowdens”? Because Basic Isn’t Enough</strong>",
+        "ggX2cfZPCnn_text": "<p><span style=\"font-size:18px;\"><strong>But I must explain to you how all of denouncing pleasure</strong></span></p>",
+        "ggZU7p2YTiJ_text": "<p><strong>But I must explain to you how all this mistaken idea of pleasure</strong></p>",
+        "ggfy_SILbkA_text": "<p><strong>How all this mistaken idea of denouncing pleasure</strong></p>",
+        "ggqxC6FX8Yg_text": "Replace this text with your content",
+        "ggtzEPS55AP_text": "<p><strong>Explain to you how all this mistaken idea of denouncing pleasure</strong></p>",
+        "gguHdGOeUqi_text": "<p><strong>But I must explain to you how all this mistaken idea of denouncing</strong></p>"
+      },
+      "type": "gp-section-590290625664909992"
+    },
+    "gp_shopify_original_section_590297542944621514": {
+      "settings": {
+        "checksum": "",
+        "gg7LjxX5T5u_text": "<strong>Built for Skin, </strong><span style=\"color:#71330C;\"><strong>Made for Men</strong></span>",
+        "ggYyX8GN-fA_label": "<p>&nbsp;</p><p><span style=\"color:#000000;font-size:16px;\"><strong>Add to your routine</strong></span></p>",
+        "ggiIH7vKwt2_text": "<p><span style=\"color:#191919;font-size:16px;\">Aura Butter is crafted for men who take care of the details. This smooth, full-body moisturizer delivers deep hydration without the shine—leaving your skin soft, clean, and effortlessly cool. Whether it’s post-shower or pre-game, it’s your go-to for skin that feels as good as it looks—and turns heads with, “What are you wearing?”</span></p>",
+        "ggpg2jlrGgD_label": "<p>&nbsp;</p><p><span style=\"color:#000000;font-size:16px;\"><strong>Add to your routine</strong></span></p>",
+        "ggtEQxhrLEA_text": "<p><span style=\"color:#191919;font-size:16px;\">Aura Butter is crafted for men who take care of the details. This smooth, full-body moisturizer delivers deep hydration without the shine—leaving your skin soft, clean, and effortlessly cool. Whether it’s post-shower or pre-game, it’s your go-to for skin that feels as good as it looks—and turns heads with, “What are you wearing?”</span></p>",
+        "ggtJnwcheFe_text": "<strong>Built for Skin, </strong><span style=\"color:#71330C;\"><strong>Made for Men</strong></span>"
+      },
+      "type": "gp-section-590297542944621514"
+    },
+    "gp_shopify_original_section_590301282317632168": {
+      "settings": {
+        "checksum": "",
+        "gg-dF8IP4Ty_text": "LIFE TIME WARRANTY",
+        "ggAMPBrR9zi_text": "LIMITED TIME 50% OFF SALE",
+        "ggE32JY2Omx_text": "FREE SHIPPING",
+        "ggkQQrKueqs_text": "30 DAYS MONEY BACK GUARANTEE"
+      },
+      "type": "gp-section-590301282317632168"
+    },
+    "gp_shopify_original_section_590417713529095114": {
+      "settings": {
+        "checksum": "",
+        "gg1EwCZl4WW_text": "<p>Our formula is simple and intentional: 100% organic shea butter, nourishing coconut oil, and a custom-crafted fragrance you won’t find in stores.</p>",
+        "gg2k8CA54s-_text": "<p>Where is it made?&nbsp;<br>Every jar of Kowdens is hand-whipped in small batches, using high-quality, ethically sourced ingredients.</p>",
+        "gg88V_CQa_O_text": "<p>Will the scent last all day?&nbsp;<br>Yes. Our signature fragrance is designed to linger gently throughout the day—just enough to leave a lasting impression without overpowering</p>",
+        "ggDaKED7Yol_childItem_0": "<p>What’s in Kowdens body butter?</p>",
+        "ggDaKED7Yol_childItem_1": "<p>Is it safe for sensitive skin?&nbsp;</p>",
+        "ggDaKED7Yol_childItem_2": "<p>Can I use it on my face?&nbsp;</p>",
+        "ggDaKED7Yol_childItem_3": "<p>Will the scent last all day?&nbsp;</p>",
+        "ggDaKED7Yol_childItem_4": "<p>Will it feel greasy?&nbsp;</p>",
+        "ggDaKED7Yol_childItem_5": "<p>Where is it made?&nbsp;</p>",
+        "ggDaKED7Yol_childItem_6": "<p>What’s your return policy?&nbsp;</p>",
+        "ggIV6go0b6l_text": "<p>What’s your return policy?&nbsp;<br>We offer a 30 -day return window for unused and unopened products. Due to the nature of our body butter, we cannot accept returns on items that have been opened or used. If there’s an issue with your order, reach out—we’ll do our best to make it right.</p>",
+        "ggZnc4XVph-_text": "<p>Will it feel greasy?&nbsp;<br>Kowdens is rich and deeply moisturizing. While a little goes a long way, it absorbs well into the skin. If you’re new to body butters, start with a small amount and build as needed</p>",
+        "ggcdL0vwHQP_text": "Frequently Asked Question",
+        "ggiLZkzVNJz_text": "<p>Is it safe for sensitive skin?&nbsp;<br>Yes. We use clean, natural ingredients with no harsh additives—perfect for daily use on most skin types. If you have highly sensitive skin, we recommend a patch test first.&nbsp;</p>",
+        "ggkyPIABg55_text": "<p>Can I use it on my face?&nbsp;<br>We don’t recommend using it on the face, as it contains fragrance and is specifically formulated for the body.&nbsp;</p>",
+        "gguGlz0bxkX_text": "<p>Answers to your most common questions about our luxurious moisturizing experience.</p>"
+      },
+      "type": "gp-section-590417713529095114"
+    },
+    "gp_shopify_original_section_590420484907074216": {
+      "settings": {
+        "checksum": "",
+        "gg0fHWL1vvN_text": "<p>Delivers a sophisticated scent that lingers beautifully without overwhelming.</p>",
+        "gg4tzM6Pgm8_text": "Deep, Lasting Moisture",
+        "ggDqmxryB9K_label": "<p>&nbsp;</p><p>&nbsp;</p><p><span style=\"color:#000000;\">SHOP NOW</span></p>",
+        "ggIlKe10l1D_text": "<p>Let your skin tell a story of care and elegance. With every application, this rich moisturizer leaves your skin silky smooth and lightly perfumed, turning heads without saying a word.</p>",
+        "ggN-MiamC4e_text": "<p>Enhances your skin’s natural glow with a velvety, touchable finish.</p>",
+        "ggZjSdcy3X__text": "Soft, Radiant Skin",
+        "ggl6qoqlP9m_text": "<p><strong>Softness That Speaks</strong></p>",
+        "ggq7QS7upNN_text": "<p>Keeps your skin hydrated, smooth, and comfortable all day.</p>",
+        "ggxzdHbPwNE_text": "Elegant All-Day Fragrance"
+      },
+      "type": "gp-section-590420484907074216"
+    },
+    "gp_shopify_original_section_590423633252319912": {
+      "settings": {
+        "checksum": "",
+        "gg-DRs_ESp2_text": "<p><i>I wasn’t expecting much—just needed something for dry skin. But now I use it every day. The&nbsp;</i><br><i>scent? Subtle but clean. People notice.”</i></p>",
+        "gg1lWZT7iRB_text": "<p>Lorem ipsum dolor sit&nbsp;</p>",
+        "ggGUdV5bY5r_text": "<p><i>I wasn’t expecting much—just needed something for dry skin. But now I use it every day. The&nbsp;</i><br><i>scent? Subtle but clean. People notice.”</i></p>",
+        "ggICluvAUTo_text": "The Buzz Around Kowdens",
+        "ggRrZPMO9uY_text": "<p>Lorem ipsum dolor sit&nbsp;</p>",
+        "ggU9OELtXTH_text": "<p>Lorem ipsum dolor sit&nbsp;</p>",
+        "ggXL33Q1-DI_text": "<p>See why beauty lovers can’t get enough of the velvet feel and fragrance.</p>",
+        "gg_1_uBNfJv_text": "<p><i>I wasn’t expecting much—just needed something for dry skin. But now I use it every day. The&nbsp;</i><br><i>scent? Subtle but clean. People notice.”</i></p>"
+      },
+      "type": "gp-section-590423633252319912"
+    },
+    "gp_shopify_original_section_590427665270309544": {
+      "settings": {
+        "checksum": ""
+      },
+      "type": "gp-section-590427665270309544"
+    },
+    "gp_shopify_original_section_590428897305166504": {
+      "settings": {
+        "checksum": "",
+        "gg-8aG_FfBv_text": "<p><a href=\"#\">Contact</a></p>",
+        "ggB2a4jAxaE_text": "<span style=\"color:#FFFFFF;\">Information</span>",
+        "ggDjbrh1Gee_text": "<p><span style=\"color:#FFFFFF;\">This luxurious body moisturizer melts into the skin, delivering deep hydration and a velvety-soft finish. Enhanced with elegant fragrance notes, it leaves you feeling beautifully scented and pampered all day.</span></p>",
+        "ggFaxGOC39T_text": "<p><a href=\"#\"><span style=\"color:#FFFFFF;\">Login</span></a></p>",
+        "ggHsC0eLTEN_text": "<p><a href=\"#\"><span style=\"color:#FFFFFF;\">Checkout</span></a></p>",
+        "ggPKxmw6T1x_text": "<p><a href=\"#\"><span style=\"color:#FFFFFF;\">My Cart</span></a></p>",
+        "ggPv0Q7jGsM_text": "<p><a href=\"#\">Shipping &amp; Return</a></p>",
+        "ggaZzNwj7tL_text": "<span style=\"color:#FFFFFF;\">Company</span>",
+        "gglIwEiSX_F_text": "<p><a href=\"#\"><span style=\"color:#FFFFFF;\">About</span></a></p>",
+        "ggvUUly7Xio_text": "<p><a href=\"#\">My Account</a></p>",
+        "ggzj5lADLQ9_text": "<p><a href=\"#\">FAQs</a></p>"
+      },
+      "type": "gp-section-590428897305166504"
+    }
+  },
+  "order": [
+    "gp_shopify_original_section_590019739913290582",
+    "gp_shopify_original_section_590033439181242929",
+    "gp_shopify_original_section_590036899733701261",
+    "gp_shopify_original_section_590278990682391382",
+    "gp_shopify_original_section_590279052825199446",
+    "gp_shopify_original_section_590282574446723752",
+    "gp_shopify_original_section_590289095163380392",
+    "gp_shopify_original_section_590290625664909992",
+    "gp_shopify_original_section_590297542944621514",
+    "gp_shopify_original_section_590301282317632168",
+    "gp_shopify_original_section_590417713529095114",
+    "gp_shopify_original_section_590420484907074216",
+    "gp_shopify_original_section_590423633252319912",
+    "gp_shopify_original_section_590427665270309544",
+    "gp_shopify_original_section_590428897305166504"
+  ]
+}
