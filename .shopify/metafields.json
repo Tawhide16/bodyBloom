@@ -1,0 +1,75 @@
+{
+  "article": [],
+  "blog": [],
+  "collection": [],
+  "company": [],
+  "company_location": [],
+  "location": [],
+  "market": [],
+  "order": [],
+  "page": [],
+  "product": [
+    {
+      "key": "product-form",
+      "namespace": "shopify",
+      "name": "Product form",
+      "description": "Defines the format or presentation of a product, typically for health and beauty; e.g. lotion, serum",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "suitable-for-skin-type",
+      "namespace": "shopify",
+      "name": "Suitable for skin type",
+      "description": "Specifies products for specific skin conditions, such as dry, aging, or sensitive",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "active-ingredient",
+      "namespace": "shopify",
+      "name": "Active ingredient",
+      "description": "Identifies primary substances in personal care items, e.g. vitamin A, retinol",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "fragrance-level",
+      "namespace": "shopify",
+      "name": "Fragrance level",
+      "description": "Specifies the scent intensity of a product, e.g. unscented, lightly scented",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "moisturizer-type",
+      "namespace": "shopify",
+      "name": "Moisturizer type",
+      "description": "Identifies the usage time of the moisturizer, like all day or night care",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "skin-care-features",
+      "namespace": "shopify",
+      "name": "Skin care features",
+      "description": "Identifies the benefits of skin care items, such as long lasting or UVA/UVB protection",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    }
+  ],
+  "variant": [],
+  "shop": []
+}
