@@ -10,6 +10,8 @@ dist/
 build/
 
 # OS/Editor files
+# OS/Editor files
+# OS/Editor files
 .DS_Store
 .vscode/
 .idea/
